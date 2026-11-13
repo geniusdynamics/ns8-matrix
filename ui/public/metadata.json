@@ -1,9 +1,12 @@
 {
   "name": "kickstart",
   "description": {
-    "en": "My kickstart module"
+    "en": "Matrix is an open network for secure, decentralized chat and calls, with rooms, bridges and end-to-end encryption.",
+    "it": "Matrix è una rete aperta per chat e chiamate sicure e decentralizzate, con stanze, bridge e cifratura end-to-end."
   },
-  "categories": [],
+  "categories": [
+    "communication"
+  ],
   "authors": [
     {
       "name": "Genius Dynamics",
